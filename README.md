@@ -1,4 +1,6 @@
 # DeepLearning-sCNN
+
+Various packages that are needed to run CNN training and inference codes-
 export LD_LIBRARY_PATH=/usr/nevis/gcc-9.2.0/lib/:/usr/nevis/gcc-9.2.0/lib64/:/usr/local/cuda/lib64
 
 export PATH=/usr/nevis/gcc-9.2.0/bin/:${PATH}
